@@ -12,7 +12,6 @@ from click.testing import CliRunner
 
 import importlib
 
-
 @contextmanager
 def inside_dir(dirpath):
     """
