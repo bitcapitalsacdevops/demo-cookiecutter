@@ -1,3 +1,5 @@
 {
-  "full_name": "Ysmael ferradas"
-}
+    "groupId": "com.example",
+    "artifactId": "demo",
+    "javaVersion": "11"
+  }
